@@ -24,9 +24,9 @@
 ## 🚀 Tech Stack & Tools
 
 - Languages: `C`, `C++`, `Java`, `Python`
-- Web & App: `Flask`, `HTML`, `CSS`, `JavaScript` *(learning...)*
+- Web & App: `Flask`
 - Tools: `Git`, `GitHub`, `VS Code`
-- Interests: `Cybersecurity`, `App Dev`, `AI`, `Voice Tech`
+- Interests: `Cybersecurity`, `App Dev`
 
 ---
 
